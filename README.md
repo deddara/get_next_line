@@ -1,7 +1,7 @@
 # get_next_line
 ### This functions allows you to read a file line by line.
 >Function has no memory-leaks. Tested with *valgrind*
-### Get starting
+### Geting started
  - To use **get_next_line** function simply include a header file `#include "get_next_line.h"`.
  
 ### Funtion call example:
